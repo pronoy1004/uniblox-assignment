@@ -1,0 +1,3 @@
+"""Ecommerce app package."""
+
+
